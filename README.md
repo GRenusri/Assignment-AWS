@@ -1,7 +1,7 @@
 
 ## Creation of a AWS cluster on AWS using Terraform-Ansible-Scripts-Kubernetes-Jenkins-Git
 
-#### Dr. Suchintan Mishra [suchintan_mishra@epam.com]
+#### Bobby Pamarthi
 
 #### Problem Statement:
 Project/Assignment - 5 Days		
